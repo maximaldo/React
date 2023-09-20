@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(32, 32, 32);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+ background-color:aliceblue;
+ width : 30vw;
+ height: 5vh;
+ font-size: 28px;
+ border-radius: 10px;
+
+}
